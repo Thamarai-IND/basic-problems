@@ -33,3 +33,7 @@ let num2 = 8;
 const response2 = factorial1(num2);
 console.log("Factorial of "+num2+" is "+response2);
 
+/**
+ *  Time Complexity - O(N)
+ *  Space Complexity - O(N)
+ */ 
